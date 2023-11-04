@@ -19,16 +19,17 @@
   color: var(--NAVY-BLUE, #2e2f42);
   font-family: "Raleway", sans-serif;
   font-size: 18px;
-  line-height: 1.16; /* 116.667% */
+  line-height: 1.17; /* 116.667% */
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  font-weight: 700;
 }
 
 .color-text {
   color: var(--IRIS, #4d5ae5);
   font-family: "Raleway", sans-serif;
   font-size: 18px;
-  line-height: 1.16; /* 116.667% */
+  line-height: 1.17; /* 116.667% */
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -94,10 +95,6 @@
   background: #404bbf;
 }
 
-.button-center {
-  justify-content: center;
-}
-
 /* SECTION 1*/
 
 .section-benefits-title {
@@ -141,14 +138,11 @@
 }
 
 .card-design {
-  justify-content: center;
   background: var(--WHITE, #fff);
 }
 
 .card-design-low {
   width: 232px;
-
-  justify-content: center;
 }
 
 .our-team-title {
@@ -159,8 +153,6 @@
   font-size: 20px;
   line-height: 1.2; /* 120% */
   letter-spacing: 0.02em;
-
-  justify-content: center;
 }
 
 .our-team-text {
@@ -194,18 +186,20 @@
   color: var(--CLOUD, #f4f4fd);
   font-family: "Raleway", sans-serif;
   font-size: 18px;
-  line-height: 1.16; /* 116.667% */
+  line-height: 1.17; /* 116.667% */
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  font-weight: 700;
 }
 
 .color-text-footer {
   color: var(--IRIS, #4d5ae5);
   font-family: "Raleway", sans-serif;
   font-size: 18px;
-  line-height: 1.16; /* 116.667% */
+  line-height: 1.17; /* 116.667% */
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  font-weight: 700;
 }
 
 .footer-text {
