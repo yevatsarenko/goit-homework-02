@@ -8,6 +8,11 @@
   text-decoration: none;
 }
 
+.body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
 /* HEADER STYLES */
 
 .logo {
