@@ -13,6 +13,11 @@
   color: #434455;
   background-color: #ffffff;
 }
+
+button {
+  cursor: pointer;
+}
+
 /* HEADER STYLES */
 
 .logo {
@@ -89,7 +94,8 @@
   color: #ffffff;
 }
 
-.button:hover {
+.button:hover,
+.button:focus {
   color: #ffffff;
   background-color: #404bbf;
 }
