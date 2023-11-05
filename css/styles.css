@@ -120,6 +120,7 @@ button {
   font-size: 20px;
   line-height: 1.2; /* 120% */
   letter-spacing: 0.02em;
+  font-weight: 500;
 }
 
 .section-benefits-p {
