@@ -80,7 +80,7 @@
   letter-spacing: 0.02em;
 }
 
-.button-cursor {
+.button {
   cursor: pointer;
   background: var(--IRIS, #4d5ae5);
   line-height: 1.5;
@@ -89,7 +89,7 @@
   color: #ffffff;
 }
 
-.button-cursor:hover {
+.button:hover {
   color: #ffffff;
   background-color: #404bbf;
 }
