@@ -111,7 +111,7 @@ button {
   line-height: 1.5;
 }
 
-/* SECTION 1*/
+/* SECTION 2*/
 
 .section-benefits-title {
   color: var(--NAVY-BLUE, #2e2f42);
@@ -132,7 +132,11 @@ button {
   letter-spacing: 0.02em;
 }
 
-/* SECTION 2 */
+/* SECTION 3 */
+
+.menu-team {
+  background-color: #ffffff;
+}
 
 .section-our-team {
   background-color: #f4f4fd;
@@ -153,10 +157,6 @@ button {
 .img-our-team {
   background: url(<path-to-image>),
     lightgray -97.034px -0.927px / 181.897% 251.37% no-repeat;
-}
-
-.card-design {
-  background: var(--WHITE, #fff);
 }
 
 .card-design-low {
@@ -183,7 +183,7 @@ button {
   letter-spacing: 0.02em;
 }
 
-/* SECTION 3*/
+/* SECTION 4*/
 
 .section-potfolio-background {
   background: url(<path-to-image>),
