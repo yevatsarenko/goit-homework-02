@@ -146,6 +146,7 @@ button {
   line-height: 1.11; /* 111.111% */
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  font-weight: 500;
 }
 
 .img-our-team {
