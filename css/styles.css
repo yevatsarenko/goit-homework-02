@@ -158,6 +158,16 @@ button {
   font-weight: 500;
 }
 
+.team-title {
+  color: var(--NAVY-BLUE, #2e2f42);
+  /* Header 3 */
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  line-height: 1.2; /* 120% */
+  letter-spacing: 0.02em;
+  font-weight: 500;
+}
+
 .img-our-team {
   background: url(<path-to-image>),
     lightgray -97.034px -0.927px / 181.897% 251.37% no-repeat;
