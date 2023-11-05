@@ -86,6 +86,11 @@
   line-height: 1.5;
   letter-spacing: 0.04em;
   font-weight: 500;
+  color: #ffffff;
+}
+
+.button-cursor:hover {
+  background: #404bbf;
 }
 
 .button-text {
@@ -97,10 +102,6 @@
   letter-spacing: 0.04em;
   font-weight: 500;
   line-height: 1.5;
-}
-
-.button-cursor:hover {
-  background: #404bbf;
 }
 
 /* SECTION 1*/
